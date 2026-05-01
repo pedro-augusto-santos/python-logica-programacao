@@ -24,7 +24,7 @@ Meu repositório possui exercícios e projetos desenvolvidos durante meus estudo
 * 🏦 Simulação de empréstimo bancário
 * 💰 Gerenciador de pagamentos
 * 📊 Sistema de cálculo de notas
-
+* 🔞 Verificador de idade
 ---
 
 ##  Tecnologias utilizadas
